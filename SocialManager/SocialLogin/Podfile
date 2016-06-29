@@ -1,0 +1,14 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'SocialLogin' do
+
+pod 'FBSDKLoginKit'
+pod 'Google/SignIn'
+pod 'Fabric'
+pod 'TwitterKit'
+pod 'TwitterCore'
+
+end
+
+

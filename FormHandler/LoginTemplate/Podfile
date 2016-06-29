@@ -1,0 +1,17 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'LoginTemplate' do
+
+pod 'AlamofireImage', '~> 2.0'
+
+end
+
+target 'LoginTemplateTests' do
+
+end
+
+target 'LoginTemplateUITests' do
+
+end
+
